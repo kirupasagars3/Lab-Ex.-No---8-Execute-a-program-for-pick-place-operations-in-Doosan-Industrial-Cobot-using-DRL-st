@@ -38,17 +38,16 @@ Procedure:
 3)Move to poin1 using move J
 ............
 
-
-## Program 
-// Roll no:
-
-//Name:
-MoveJ ................
-
 ## output : 
+<img width="940" height="600" alt="514869845-bcc60338-81bc-417f-8c63-63c4c2cd6675" src="https://github.com/user-attachments/assets/1f403169-93b4-4fe0-b329-ec71d92126eb" />
+<img width="940" height="612" alt="514869852-c9b386d7-c4d8-4e68-867b-aae7ff4d84d9" src="https://github.com/user-attachments/assets/ffb3e12d-2ebb-4ed9-83fa-ac4f6e26f35e" />
+<img width="940" height="609" alt="514869860-b0963b16-3fd7-4c20-9d2f-3b27bb4ad172" src="https://github.com/user-attachments/assets/5fd62813-a03d-4458-ad7a-a85f6abd5a90" />
+<img width="809" height="805" alt="514869865-58f8a704-7e66-4043-9f07-66bb21716fe7" src="https://github.com/user-attachments/assets/516f9710-656b-4bea-9fb8-e67253f1058d" />
 
 
 ## Results: 
+A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully
+
 
 
 
